@@ -57,10 +57,6 @@ function requireUncached( $module ) {
          data: data
        }
      }))
-     .on('error', function(e) {
-       gutil.beep();
-       console.log(e.message.red);
-     })
      .pipe(gulp.dest(settings.publicDir));
  });
 

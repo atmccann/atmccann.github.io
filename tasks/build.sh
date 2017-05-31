@@ -2,7 +2,7 @@
 
 npm run build
 rm -rf .tmp
-mv public .tmp
+mv _site .tmp
 git checkout master
 cp -r .tmp/* .
 git add .

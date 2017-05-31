@@ -1,43 +1,23 @@
 [
   {
     "title": "The Last Clinics",
-    "position": "",
-    "color": "",
-    "shape": "",
+    "position": "left",
+    "color": "red",
+    "shape": "square",
     "type": "words",
-    "pub_date": "",
+    "pub_date": "2017-05-21 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/cover-2-big%202.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
-    "title": "Public Student Loan Forgiveness ",
-    "position": "",
-    "color": "",
-    "shape": "",
-    "type": "tv",
-    "pub_date": "",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/aramis.png",
-    "url": ""
-  },
-  {
     "title": "Aramis Ayala",
-    "position": "",
-    "color": "",
-    "shape": "",
-    "type": "tv",
-    "pub_date": "",
-    "img": "",
-    "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
-  },
-  {
-    "title": "Mississippi voting rights",
-    "position": "straight",
-    "color": "yellow",
+    "position": "left",
+    "color": "blue",
     "shape": "square",
     "type": "tv",
-    "pub_date": "2017-05-09 16:00:00",
-    "img": "",
-    "url": "https://news.vice.com/story/only-six-former-felons-in-mississippi-got-their-voting-rights-back-this-year"
+    "pub_date": "2017-05-12 16:00:00",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/aramis.png",
+    "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
   },
   {
     "title": "When School Choice Means Choosing Segregation",
@@ -46,7 +26,7 @@
     "shape": "triangle",
     "type": "words",
     "pub_date": "2017-04-12 16:00:00",
-    "img": "",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/schoolseg.png",
     "url": "https://news.vice.com/story/when-school-choice-means-choosing-segregation"
   },
   {
@@ -56,7 +36,7 @@
     "shape": "square",
     "type": "graphic",
     "pub_date": "2017-03-10 16:00:00",
-    "img": "",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/betsy.png",
     "url": "https://news.vice.com/story/we-spoke-to-leaders-of-historically-black-schools-who-met-trump-in-the-oval-office"
   },
   {
@@ -66,7 +46,7 @@
     "shape": "circle",
     "type": "graphic",
     "pub_date": "2017-02-10 16:00:00",
-    "img": "",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/fedcourts.png",
     "url": "https://news.vice.com/story/republicans-handed-trump-more-than-100-empty-federal-judge-seats-to-fill"
   },
   {
@@ -76,7 +56,7 @@
     "shape": "circle",
     "type": "words",
     "pub_date": "2017-01-28 16:00:00",
-    "img": "",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/Screenshot%202017-05-25%2021.57.35.png",
     "url": "https://news.vice.com/story/federal-judge-blocks-trump-immigration-order-suspending-deportations"
   },
   {
@@ -498,135 +478,5 @@
     "pub_date": "2012-09-13 12:0:0",
     "img": "/images/brain.gif",
     "url": "http://www.buzzfeed.com/atmccann/this-is-your-brain-on-google-and-facebook-ads-8c7c#.lfonxOmpL"
-  },
-  {
-    "title": "a",
-    "position": "left",
-    "color": "yellow",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-07-14 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "l",
-    "position": "right",
-    "color": "blue",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-06-1 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "l",
-    "position": "straight",
-    "color": "red",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-05-20 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "i",
-    "position": "left",
-    "color": "yellow",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-04-25 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "s",
-    "position": "right",
-    "color": "blue",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-04-15 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "o",
-    "position": "straight",
-    "color": "red",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-02-5 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "n",
-    "position": "left",
-    "color": "yellow",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2016-01-22 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "m",
-    "position": "right",
-    "color": "blue",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-12-21 16:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "c",
-    "position": "straight",
-    "color": "red",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-12-3 12:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "c",
-    "position": "left",
-    "color": "yellow",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-10-9 14:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "a",
-    "position": "right",
-    "color": "blue",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-08-27 13:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "n",
-    "position": "straight",
-    "color": "red",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-07-8 12:0:0",
-    "img": "",
-    "url": ""
-  },
-  {
-    "title": "n",
-    "position": "left",
-    "color": "yellow",
-    "shape": "letter",
-    "type": "words",
-    "pub_date": "2015-06-30 14:0:0",
-    "img": "",
-    "url": ""
   }
 ]

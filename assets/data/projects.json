@@ -1,23 +1,43 @@
 [
   {
     "title": "The Last Clinics",
-    "position": "left",
-    "color": "red",
-    "shape": "square",
+    "position": "",
+    "color": "",
+    "shape": "",
     "type": "words",
-    "pub_date": "2017-05-21 16:00:00",
+    "pub_date": "",
     "img": "https://dl.dropboxusercontent.com/u/64501391/cover-2-big%202.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
+    "title": "Public Student Loan Forgiveness ",
+    "position": "",
+    "color": "",
+    "shape": "",
+    "type": "tv",
+    "pub_date": "",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/aramis.png",
+    "url": ""
+  },
+  {
     "title": "Aramis Ayala",
-    "position": "left",
-    "color": "blue",
+    "position": "",
+    "color": "",
+    "shape": "",
+    "type": "tv",
+    "pub_date": "",
+    "img": "",
+    "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
+  },
+  {
+    "title": "Mississippi voting rights",
+    "position": "straight",
+    "color": "yellow",
     "shape": "square",
     "type": "tv",
-    "pub_date": "2017-05-12 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/aramis.png",
-    "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
+    "pub_date": "2017-05-09 16:00:00",
+    "img": "",
+    "url": "https://news.vice.com/story/only-six-former-felons-in-mississippi-got-their-voting-rights-back-this-year"
   },
   {
     "title": "When School Choice Means Choosing Segregation",
@@ -26,7 +46,7 @@
     "shape": "triangle",
     "type": "words",
     "pub_date": "2017-04-12 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/schoolseg.png",
+    "img": "",
     "url": "https://news.vice.com/story/when-school-choice-means-choosing-segregation"
   },
   {
@@ -36,7 +56,7 @@
     "shape": "square",
     "type": "graphic",
     "pub_date": "2017-03-10 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/betsy.png",
+    "img": "",
     "url": "https://news.vice.com/story/we-spoke-to-leaders-of-historically-black-schools-who-met-trump-in-the-oval-office"
   },
   {
@@ -46,7 +66,7 @@
     "shape": "circle",
     "type": "graphic",
     "pub_date": "2017-02-10 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/fedcourts.png",
+    "img": "",
     "url": "https://news.vice.com/story/republicans-handed-trump-more-than-100-empty-federal-judge-seats-to-fill"
   },
   {
@@ -56,7 +76,7 @@
     "shape": "circle",
     "type": "words",
     "pub_date": "2017-01-28 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/Screenshot%202017-05-25%2021.57.35.png",
+    "img": "",
     "url": "https://news.vice.com/story/federal-judge-blocks-trump-immigration-order-suspending-deportations"
   },
   {

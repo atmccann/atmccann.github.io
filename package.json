@@ -1,16 +1,17 @@
 {
-  "name": "gulp-jade-sass-starter",
+  "name": "allisontmccann.com",
   "version": "0.1.0",
-  "description": "A Jade and Sass starter project using gulp for task automation.",
+  "description": "allison mccann website",
   "main": "gulpfile.js",
   "author": {
-    "name": "Joshua Azemoh",
-    "email": "buzzme46@gmail.com",
-    "url": "https://github.com/azemoh"
+    "name": "Allison McCann",
+    "email": "allisontmccann@gmail"
   },
   "scripts": {
     "start": "gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./build.sh",
+    "build": "gulp build"
   },
   "devDependencies": {
     "browser-sync": "^2.9.3",
@@ -22,7 +23,7 @@
   },
 	"repository": {
     "type": "git",
-    "url": "https://github.com/azemoh/gulp-jade-sass-starter.git"
+    "url": "user/repo"
   },
   "keywords": [
     "jade",

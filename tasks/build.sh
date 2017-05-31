@@ -1,6 +1,5 @@
 #!/bin/bash
 
-npm run build
 rm -rf .tmp
 mv _site .tmp
 git checkout master

@@ -4,7 +4,9 @@ header
 
 	#content
 		.projects
-			| sup
+			-var projects = utils.sortByDate(data);
+			for project, i in projects
+				.project #{project.title}
 
 
 	-console.log(utils);

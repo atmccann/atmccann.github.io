@@ -6,7 +6,7 @@
     "shape": "square",
     "type": "words",
     "pub_date": "2017-05-21 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/cover-2-big%202.gif",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/clinics-small.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
@@ -48,16 +48,6 @@
     "pub_date": "2017-02-10 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/fedcourts.png",
     "url": "https://news.vice.com/story/republicans-handed-trump-more-than-100-empty-federal-judge-seats-to-fill"
-  },
-  {
-    "title": "Irreparable Harm",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
-    "type": "words",
-    "pub_date": "2017-01-28 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/Screenshot%202017-05-25%2021.57.35.png",
-    "url": "https://news.vice.com/story/federal-judge-blocks-trump-immigration-order-suspending-deportations"
   },
   {
     "title": "Lead Astray",
@@ -306,7 +296,7 @@
     "shape": "square",
     "type": "graphic",
     "pub_date": "2014-11-2 12:0:0",
-    "img": "/images/supreme.png",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/scotus.png",
     "url": "http://fivethirtyeight.com/features/the-supreme-court-wont-be-getting-another-sotomayor-anytime-soon/"
   },
   {
@@ -336,7 +326,7 @@
     "shape": "circle",
     "type": "words",
     "pub_date": "2014-08-28 12:0:0",
-    "img": "/images/nfl-suspensions.png",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/nfl.png",
     "url": "http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/"
   },
   {
@@ -346,7 +336,7 @@
     "shape": "square",
     "type": "graphic",
     "pub_date": "2014-08-8 12:0:0",
-    "img": "/images/scrabble.png",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/scrabble.png",
     "url": "http://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/"
   },
   {
@@ -368,115 +358,5 @@
     "pub_date": "2014-05-29 12:0:0",
     "img": "https://espnfivethirtyeight.files.wordpress.com/2016/08/screenshot-2016-08-23-16-28-55.png",
     "url": "http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/"
-  },
-  {
-    "title": "Low Pay Limits Player Experience in National Women’s Soccer League",
-    "position": "left",
-    "color": "blue",
-    "shape": "circle",
-    "type": "words",
-    "pub_date": "2014-03-24 12:0:0",
-    "img": "/images/nwsl.png",
-    "url": "http://fivethirtyeight.com/datalab/low-pay-limits-player-experience-in-national-womens-soccer-league/"
-  },
-  {
-    "title": "Queens In A Foreign Land",
-    "position": "right",
-    "color": "yellow",
-    "shape": "triangle",
-    "type": "words",
-    "pub_date": "2014-02-1 12:0:0",
-    "img": "/images/tyreso3.png",
-    "url": "http://deadspin.com/can-womens-pro-soccer-work-in-america-an-investigatio-1521327882"
-  },
-  {
-    "title": "Bitcoin Mining Game",
-    "position": "straight",
-    "color": "blue",
-    "shape": "circle",
-    "type": "graphic",
-    "pub_date": "2014-01-13 12:0:0",
-    "img": "/images/bitcoin.jpg",
-    "url": "http://www.bloomberg.com/bw/articles/2014-01-13/interactive-simulation-how-to-mine-bitcoin"
-  },
-  {
-    "title": "The Drone War",
-    "position": "right",
-    "color": "yellow",
-    "shape": "triangle",
-    "type": "graphic",
-    "pub_date": "2013-08-13 12:0:0",
-    "img": "/images/drones.png",
-    "url": "http://www.bloomberg.com/bw/articles/2013-05-23/the-drone-war-a-comprehensive-map-of-lethal-u-dot-s-dot-attacks"
-  },
-  {
-    "title": "Jay-Z Is Right: Most Rappers Are Lying",
-    "position": "straight",
-    "color": "blue",
-    "shape": "square",
-    "type": "grapic",
-    "pub_date": "2013-07-13 12:0:0",
-    "img": "/images/jayz.jpg",
-    "url": "http://www.businessinsider.com/jay-z-thinks-rappers-lie-about-net-worth-2013-7"
-  },
-  {
-    "title": "A Long Wait On Death Row",
-    "position": "left",
-    "color": "red",
-    "shape": "circle",
-    "type": "graphic",
-    "pub_date": "2013-05-13 12:0:0",
-    "img": "/images/deathrow.png",
-    "url": "http://www.bloomberg.com/bw/articles/2013-05-02/a-long-wait-on-death-row"
-  },
-  {
-    "title": "The Rise of Long-Term Joblessness",
-    "position": "straight",
-    "color": "blue",
-    "shape": "triangle",
-    "type": "graphic",
-    "pub_date": "2013-02-13 12:0:0",
-    "img": "/images/joblessness.jpg",
-    "url": "http://www.bloomberg.com/news/articles/2013-02-07/the-rise-of-long-term-joblessness#media-2"
-  },
-  {
-    "title": "Fighting Roe v. Wade",
-    "position": "left",
-    "color": "red",
-    "shape": "square",
-    "type": "graphic",
-    "pub_date": "2013-01-13 12:0:0",
-    "img": "/images/abortion.png",
-    "url": "https://www.pinterest.com/pin/253820128974765752/"
-  },
-  {
-    "title": "Financial Planning Flowchart",
-    "position": "right",
-    "color": "red",
-    "shape": "triangle",
-    "type": "graphic",
-    "pub_date": "2012-12-13 12:0:0",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/finance-flow.png",
-    "url": "http://www.bloomberg.com/news/articles/2012-12-20/the-financial-planning-flowchart#media-2"
-  },
-  {
-    "title": "Why No One Knows How Much Money Musicians Are Making Now",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
-    "type": "words",
-    "pub_date": "2012-10-13 12:0:0",
-    "img": "/images/biebs2.jpg",
-    "url": "http://www.buzzfeed.com/atmccann/why-no-one-knows-how-much-money-musicians-are-maki#.tqxRv6k1E"
-  },
-  {
-    "title": "Your Brain On Google And Facebook Ads",
-    "position": "straight",
-    "color": "blue",
-    "shape": "square",
-    "type": "words",
-    "pub_date": "2012-09-13 12:0:0",
-    "img": "/images/brain.gif",
-    "url": "http://www.buzzfeed.com/atmccann/this-is-your-brain-on-google-and-facebook-ads-8c7c#.lfonxOmpL"
   }
 ]

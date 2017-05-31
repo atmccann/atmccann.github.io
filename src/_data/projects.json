@@ -6,7 +6,7 @@
     "shape": "square",
     "type": "words",
     "pub_date": "2017-05-21 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/cover-2-big%202.gif",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/clinics-small.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
@@ -48,16 +48,6 @@
     "pub_date": "2017-02-10 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/fedcourts.png",
     "url": "https://news.vice.com/story/republicans-handed-trump-more-than-100-empty-federal-judge-seats-to-fill"
-  },
-  {
-    "title": "Irreparable Harm",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
-    "type": "words",
-    "pub_date": "2017-01-28 16:00:00",
-    "img": "https://dl.dropboxusercontent.com/u/64501391/Screenshot%202017-05-25%2021.57.35.png",
-    "url": "https://news.vice.com/story/federal-judge-blocks-trump-immigration-order-suspending-deportations"
   },
   {
     "title": "Lead Astray",

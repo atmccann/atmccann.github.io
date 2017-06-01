@@ -26,17 +26,19 @@ a:visited {
 }
 
 #bio {
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    margin-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 40px;
 
     p.bio {
-        display: flex;
-        justify-content: space-between;
         font-size: 28px;
         margin-top: 0px;
 
+    }
+
+    @media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+    	p.bio {
+    	    font-size: 16px;
+    	}
     }
 
     a {
@@ -48,15 +50,13 @@ a:visited {
     	color: #ffcc00;
     }
 
-    .options {
-        display: flex;
-        justify-content: space-between;
-        font-size: 28px;
-
-    }
-
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	#bio {
+	    margin: 0px 20px 0px 20px;
+	}
+}
 
 #work {
 
@@ -64,6 +64,7 @@ a:visited {
 	display: flex;
 	width: 100%;
 	margin-top: 40px;
+	margin-left: 20px;
 
 	.info {
 		width: 88%;
@@ -72,7 +73,16 @@ a:visited {
 			font-size: 70px;
 			margin-top: 0px;
 			margin-bottom: 0px;
-			margin-left: 10px;
+		}
+	}
+
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.info {
+			width: 73%;
+
+			h1 {
+				font-size: 32px;
+			}
 		}
 	}
 
@@ -102,6 +112,40 @@ a:visited {
 
 	}
 
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.social-btns {
+		    float: right;
+		    margin-top: 10px;
+		}
+
+		a.social {
+		    width: 25px;
+		    margin: 3px 6px 0px 0px;
+		    border-bottom: none;
+
+		    svg {
+		        width: 25px;
+		        height: 25px;
+
+		        &:hover path {
+		            fill: #ffcc00;
+		        }
+		    }
+
+		    &:hover {
+		        border-bottom: none;
+		        cursor: pointer;
+		    }
+
+		}
+	}
+
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	#work {
+		margin: 20px 20px 0px 20px;
+	}
 }
 
 .projects {
@@ -110,7 +154,6 @@ a:visited {
 	display: flex;
 	width: 100%;
 	margin: 0px 10px 0px 10px;
-
 
 	.project {
 		width: 168px;
@@ -121,11 +164,30 @@ a:visited {
 
 		&:hover {
 			border: 3px solid #ffcc00;
+			color: #ffcc00;
 		}
 
 	}
+
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.project {
+			width: 320px;
+			height: 320px;
+			margin: 10px;
+			padding: 10px;
+		}
+	}
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	.projects {
+		margin: 0;
+
+		a {
+			margin: 0 auto;
+		}
+	}
+}
 
 
 

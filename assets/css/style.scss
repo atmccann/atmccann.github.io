@@ -1,33 +1,84 @@
 @import "includes/base";
 
+
 body {
     font-family: Helvetica;
-    background-color: #ff4d4d;
     color: #000;
+    background-color: #ff4d4d;
 }
 
 #container {
 	margin: 40px auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
 	max-width: 960px;
+
 }
+
+a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #000;
+}
+
+#bio {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-left: 10px;
+
+    p.bio {
+        display: flex;
+        justify-content: space-between;
+        font-size: 28px;
+        margin-top: 0px;
+
+    }
+
+    a {
+    	text-decoration: underline;
+    	font-weight: normal;
+    }
+
+    a:hover {
+    	color: #ffcc00;
+    }
+
+    .options {
+        display: flex;
+        justify-content: space-between;
+        font-size: 28px;
+
+    }
+
+}
+
 
 #work {
 
 	flex-wrap: wrap;
 	display: flex;
 	width: 100%;
+	margin-top: 40px;
 
 	.info {
-		width: 90%;
+		width: 88%;
 
 		h1 {
 			font-size: 70px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			margin-left: 10px;
 		}
 	}
 
 	.social-btns {
 	    float: right;
-	    margin-top: 70px;
+	    margin-top: 40px;
 	}
 
 	a.social {
@@ -36,11 +87,11 @@ body {
 	    border-bottom: none;
 
 	    svg {
-	        width: 30px;
-	        height: 30px;
+	        width: 40px;
+	        height: 40px;
 
 	        &:hover path {
-	            fill: #fa4a5a;
+	            fill: #ffcc00;
 	        }
 	    }
 
@@ -58,23 +109,25 @@ body {
 	flex-wrap: wrap;
 	display: flex;
 	width: 100%;
+	margin: 0px 10px 0px 10px;
 
-	a {
-		color: #000;
-		text-decoration: none;
-		font-weight: bold;
-		font-size: 18px;
-	}
-
-	a:visited {
-		color: #000;
-	}
 
 	.project {
-		width: 170px;
-		height: 170px;
+		width: 168px;
+		height: 168px;
 		margin: 10px;
 		padding: 10px;
 		border: 3px solid #000;
+
+		&:hover {
+			border: 3px solid #ffcc00;
+		}
+
 	}
 }
+
+
+
+
+
+

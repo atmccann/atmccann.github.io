@@ -110,7 +110,7 @@
     "url": "https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/"
   },
   {
-    "title": "Quickdraw 1",
+    "title": "Quickdraw",
     "position": "left",
     "color": "blue",
     "shape": "triangle",
@@ -130,7 +130,7 @@
     "url": "http://projects.fivethirtyeight.com/2016-election-forecast/"
   },
   {
-    "title": "A/B Tests in Music",
+    "title": "A/B Testing Music",
     "position": "left",
     "color": "red",
     "shape": "circle",
@@ -138,16 +138,6 @@
     "pub_date": "2016-05-20 16:0:0",
     "img": "https://espnfivethirtyeight.files.wordpress.com/2016/08/screenshot-2016-08-23-16-37-06.png",
     "url": "https://fivethirtyeight.com/features/the-worst-thing-that-can-happen-is-we-make-a-bad-song/"
-  },
-  {
-    "title": "2016 MLB Predictions",
-    "position": "left",
-    "color": "blue",
-    "shape": "circle",
-    "type": "graphic",
-    "pub_date": "2016-04-25 16:0:0",
-    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/04/promo_square.gif",
-    "url": "http://projects.fivethirtyeight.com/2016-mlb-predictions/"
   },
   {
     "title": "NWSL Predictions",

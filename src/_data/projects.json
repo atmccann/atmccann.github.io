@@ -1,29 +1,34 @@
 [
   {
     "title": "The Last Clinics",
-    "position": "left",
-    "color": "red",
-    "shape": "square",
     "type": "words",
     "pub_date": "2017-05-21 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/clinics-small.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
+    "title": "Public Service Loan Forgiveness",
+    "type": "tv",
+    "pub_date": "2017-05-20 16:00:00",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/vva.png",
+    "url": "https://youtu.be/avp4a-WKIRU?t=11m14s"
+  },
+  {
     "title": "Aramis Ayala",
-    "position": "left",
-    "color": "blue",
-    "shape": "square",
     "type": "tv",
     "pub_date": "2017-05-12 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/aramis.png",
     "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
   },
   {
+    "title": "Mississippi Voting Rights",
+    "type": "tv",
+    "pub_date": "2017-05-09 16:00:00",
+    "img": "https://dl.dropboxusercontent.com/u/64501391/msvoting.png",
+    "url": "https://news.vice.com/story/only-six-former-felons-in-mississippi-got-their-voting-rights-back-this-year"
+  },
+  {
     "title": "When School Choice Means Choosing Segregation",
-    "position": "left",
-    "color": "red",
-    "shape": "triangle",
     "type": "words",
     "pub_date": "2017-04-12 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/schoolseg.png",
@@ -31,9 +36,6 @@
   },
   {
     "title": "The Meeting That Went Viral",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2017-03-10 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/betsy.png",
@@ -41,9 +43,6 @@
   },
   {
     "title": "Empty Seats",
-    "position": "right",
-    "color": "blue",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2017-02-10 16:00:00",
     "img": "https://dl.dropboxusercontent.com/u/64501391/fedcourts.png",
@@ -51,9 +50,6 @@
   },
   {
     "title": "Lead Astray",
-    "position": "right",
-    "color": "blue",
-    "shape": "circle",
     "type": "tv",
     "pub_date": "2017-01-17 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/flint-chart.png",
@@ -61,9 +57,6 @@
   },
   {
     "title": "Obama Legacy",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2017-01-16 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/obama-climate4.gif",
@@ -71,9 +64,6 @@
   },
   {
     "title": "Red All Over",
-    "position": "left",
-    "color": "red",
-    "shape": "circle",
     "type": "tv",
     "pub_date": "2016-12-24 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/elliott-chart.gif",
@@ -81,9 +71,6 @@
   },
   {
     "title": "Pay for Play",
-    "position": "left",
-    "color": "blue",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2016-12-23 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/soccer.gif",
@@ -91,9 +78,6 @@
   },
   {
     "title": "What Happened?",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2016-11-9 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/Screenshot%202017-01-18%2015.02.11.png",
@@ -101,9 +85,6 @@
   },
   {
     "title": "Hip-Hop Is Turning On Donald Trump",
-    "position": "right",
-    "color": "red",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2016-07-14 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/hiphop.png",
@@ -111,9 +92,6 @@
   },
   {
     "title": "Quickdraw",
-    "position": "left",
-    "color": "blue",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2016-07-13 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/quickdraw.gif",
@@ -121,9 +99,6 @@
   },
   {
     "title": "2016 General Election Forecast",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2016-06-1 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/general-election.png",
@@ -131,9 +106,6 @@
   },
   {
     "title": "A/B Testing Music",
-    "position": "left",
-    "color": "red",
-    "shape": "circle",
     "type": "words",
     "pub_date": "2016-05-20 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/abtest.png",
@@ -141,9 +113,6 @@
   },
   {
     "title": "NWSL Predictions",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
     "type": "words",
     "pub_date": "2016-04-15 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/nwsl.png",
@@ -151,9 +120,6 @@
   },
   {
     "title": "East Des Moines",
-    "position": "straight",
-    "color": "blue",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2016-01-22 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/desmoines.png",
@@ -161,9 +127,6 @@
   },
   {
     "title": "The Race To The Oscars",
-    "position": "left",
-    "color": "red",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2016-04-17 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/oscars.png",
@@ -171,9 +134,6 @@
   },
   {
     "title": "The Nicki Effect",
-    "position": "right",
-    "color": "yellow",
-    "shape": "triangle",
     "type": "words",
     "pub_date": "2015-12-21 16:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/nicki.png",
@@ -181,9 +141,6 @@
   },
   {
     "title": "Swing The Election",
-    "position": "straight",
-    "color": "blue",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2015-12-3 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/swing.png",
@@ -191,9 +148,6 @@
   },
   {
     "title": "CARMELO",
-    "position": "left",
-    "color": "red",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2015-10-9 14:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/carmelo.png",
@@ -201,9 +155,6 @@
   },
   {
     "title": "Trump Attacks",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2015-08-27 13:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/trumpattacks.png",
@@ -211,9 +162,6 @@
   },
   {
     "title": "How Your Favorite Baseball Team Blows Its Money",
-    "position": "straight",
-    "color": "blue",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2015-07-8 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/baseballmoney.png",
@@ -221,9 +169,6 @@
   },
   {
     "title": "Women's World Cup Preview",
-    "position": "right",
-    "color": "red",
-    "shape": "circle",
     "type": "words",
     "pub_date": "2015-06-3 14:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/wwc.jpg",
@@ -231,9 +176,6 @@
   },
   {
     "title": "2015 Women's World Cup Predictions",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2015-06-2 14:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/wwc-predictions.gif",
@@ -241,9 +183,6 @@
   },
   {
     "title": "Where Your State Gets Its Money",
-    "position": "left",
-    "color": "blue",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2015-04-16 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/statemoney.png",
@@ -251,9 +190,6 @@
   },
   {
     "title": "2015 March Madness Predictions",
-    "position": "left",
-    "color": "red",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2015-04-5 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/table.png",
@@ -261,9 +197,6 @@
   },
   {
     "title": "Every NBA Team’s Chance Of Winning",
-    "position": "right",
-    "color": "yellow",
-    "shape": "circle",
     "type": "graphic",
     "pub_date": "2015-02-18 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/nbawin.png",
@@ -271,9 +204,6 @@
   },
   {
     "title": "Chug, Run, Repeat",
-    "position": "left",
-    "color": "blue",
-    "shape": "triangle",
     "type": "words",
     "pub_date": "2014-12-5 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/beermile.png",
@@ -281,9 +211,6 @@
   },
   {
     "title": "Who Makes It To The Supreme Court?",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2014-11-2 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/scotus.png",
@@ -291,9 +218,6 @@
   },
   {
     "title": "2014 Senate Forecast",
-    "position": "left",
-    "color": "blue",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2014-11-1 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/senate.png",
@@ -301,9 +225,6 @@
   },
   {
     "title": "Sneakers",
-    "position": "right",
-    "color": "red",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2014-10-17 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/sneakers.gif",
@@ -311,9 +232,6 @@
   },
   {
     "title": "NFL domestic violence",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "circle",
     "type": "words",
     "pub_date": "2014-08-28 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/nfl.png",
@@ -321,9 +239,6 @@
   },
   {
     "title": "The Best Scrabble Player On Earth",
-    "position": "left",
-    "color": "blue",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2014-08-8 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/scrabble.png",
@@ -331,9 +246,6 @@
   },
   {
     "title": "2014 Men's World Cup Predictions",
-    "position": "right",
-    "color": "red",
-    "shape": "triangle",
     "type": "graphic",
     "pub_date": "2014-06-2 14:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/mensworldcup.png",
@@ -341,9 +253,6 @@
   },
   {
     "title": "Baby Names",
-    "position": "straight",
-    "color": "yellow",
-    "shape": "square",
     "type": "graphic",
     "pub_date": "2014-05-29 12:0:0",
     "img": "https://dl.dropboxusercontent.com/u/64501391/babynames.png",

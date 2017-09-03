@@ -1,11 +1,195 @@
 @import "includes/base";
 
-header {
-	h1 {
-		font-weight: 300;
-		text-align: center;
-		font-size: 60px;
-		margin-top: 180px;
-		color: red;
+
+body {
+    font-family: Helvetica;
+    color: #000;
+    background-color: #ff4d4d;
+}
+
+#container {
+	margin: 40px auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	max-width: 960px;
+
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #000;
+}
+
+#bio {
+    margin-left: 20px;
+    margin-bottom: 40px;
+
+    p.bio {
+        font-size: 26px;
+        margin-top: 0px;
+
+    }
+
+    @media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+    	p.bio {
+    	    font-size: 17px;
+    	}
+    }
+
+    a {
+    	text-decoration: underline;
+    	font-weight: normal;
+    }
+
+    a:hover {
+    	color: #ffcc00;
+    }
+
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	#bio {
+	    margin: 0px 20px 0px 20px;
 	}
 }
+
+#work {
+
+	flex-wrap: wrap;
+	display: flex;
+	width: 100%;
+	margin-top: 40px;
+	margin-left: 20px;
+
+	.info {
+		width: 88%;
+
+		h1 {
+			font-size: 70px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+		}
+	}
+
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.info {
+			width: 73%;
+
+			h1 {
+				font-size: 32px;
+			}
+		}
+	}
+
+	.social-btns {
+	    float: right;
+	    margin-top: 40px;
+	}
+
+	a.social {
+	    width: 35px;
+	    margin: 3px 6px 0px 0px;
+	    border-bottom: none;
+
+	    svg {
+	        width: 40px;
+	        height: 40px;
+
+	        &:hover path {
+	            fill: #ffcc00;
+	        }
+	    }
+
+	    &:hover {
+	        border-bottom: none;
+	        cursor: pointer;
+	    }
+
+	}
+
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.social-btns {
+		    float: right;
+		    margin-top: 10px;
+		}
+
+		a.social {
+		    width: 25px;
+		    margin: 3px 6px 0px 0px;
+		    border-bottom: none;
+
+		    svg {
+		        width: 25px;
+		        height: 25px;
+
+		        &:hover path {
+		            fill: #ffcc00;
+		        }
+		    }
+
+		    &:hover {
+		        border-bottom: none;
+		        cursor: pointer;
+		    }
+
+		}
+	}
+
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	#work {
+		margin: 20px 20px 0px 20px;
+	}
+}
+
+.projects {
+
+	flex-wrap: wrap;
+	display: flex;
+	width: 100%;
+	margin: 0px 10px 0px 10px;
+
+	.project {
+		width: 168px;
+		height: 168px;
+		margin: 10px;
+		padding: 10px;
+		border: 3px solid #000;
+
+		&:hover {
+			border: 3px solid #ffcc00;
+			color: #ffcc00;
+		}
+
+	}
+
+	@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+		.project {
+			width: 320px;
+			height: 320px;
+			margin: 10px;
+			padding: 10px;
+		}
+	}
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {	
+	.projects {
+		margin: 0;
+
+		a {
+			margin: 0 auto;
+		}
+	}
+}
+
+
+
+
+

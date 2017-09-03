@@ -1,11 +1,25 @@
-To update:
+## Updating
 
-* add new work to [google doc](https://docs.google.com/spreadsheets/d/1Fdsz9s0WQlyG72UtCLiSa8_LjtbRI7G8yRBetGhj_vo/edit?usp=drive_web)
+```sh
+tasks/update.sh
+```
 
-To build:
+## View changes
 
-check out the `src` branch.
+Run the project locally with gulp: 
 
-* `npm install`
-* `gulp`
-* open [http://localhost:8000](http://localhost:3000)
+```sh
+npm install
+gulp
+```
+`open http://localhost:3000`
+
+Make sure to push all changes to src branch before running the deploy
+
+## Deploy to master
+
+Make sure .tmp folder is empty
+
+```sh
+npm run deploy
+```

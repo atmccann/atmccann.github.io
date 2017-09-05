@@ -23,4 +23,3 @@ Make sure .tmp folder is empty
 ```sh
 npm run deploy
 ```
-

@@ -10,6 +10,7 @@ var gulp = require('gulp'),
 	prefix = require('gulp-autoprefixer'),
 	sass = require('gulp-sass'),
 	_ = require('underscore'),
+	gzip = require('gulp-gzip'),
 	browserSync = require('browser-sync');
 
 /*
@@ -120,6 +121,17 @@ gulp.task('data', function() {
 gulp.task('watch', function () {
 	gulp.watch(settings.sassDir + '/**', ['sass']);
 	gulp.watch(['*.jade', '**/*.jade', '**/*.json'], ['jade-rebuild']);
+});
+
+
+/*try to build here*/
+gulp.task('gzip', ['build'], function() {
+    return gulp.src('_site/**/*.{js,css}')
+                .pipe(gzip())
+                .pipe(rename(function(path) {
+                    path.extname = '';
+                }))
+                .pipe(gulp.dest('./_site/'));
 });
 
 /**

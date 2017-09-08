@@ -1,5 +1,12 @@
 [
   {
+    "title": "A Tale of Two Towns",
+    "type": "words",
+    "pub_date": "2017-09-06 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/twotowns.jpg",
+    "url": "https://news.vice.com/story/local-police-opioid-crisis-ohio-kentucky"
+  },
+  {
     "title": "Trump Hotels",
     "type": "tv",
     "pub_date": "2017-07-11 16:00:00",

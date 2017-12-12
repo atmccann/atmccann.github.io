@@ -9,7 +9,6 @@ tasks/update.sh
 Run the project locally with gulp: 
 
 ```sh
-npm install
 gulp
 ```
 `open http://localhost:3000`
@@ -21,5 +20,5 @@ Make sure to push all changes to src branch before running the deploy
 Make sure .tmp folder is empty
 
 ```sh
-npm run deploy
+tasks/build.sh
 ```

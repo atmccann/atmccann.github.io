@@ -1,5 +1,33 @@
 [
   {
+    "title": "Shot By Cops",
+    "type": "words",
+    "pub_date": "2017-12-11",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/shotbycops",
+    "url": "https://news.vice.com/story/shot-by-cops"
+  },
+  {
+    "title": "Sexual Harassment",
+    "type": "tv",
+    "pub_date": "2017-11-12",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/weinstein-square.gif",
+    "url": "https://news.vice.com/story/only-1-in-4-harassment-victims-report-it-will-the-weinstein-revelations-change-anything"
+  },
+  {
+    "title": "California's Hep A Crisis",
+    "type": "tv",
+    "pub_date": "2017-10-17",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/hepA.png",
+    "url": "https://news.vice.com/story/california-is-trying-to-fight-a-deadly-hepatitis-a-outbreak"
+  },
+  {
+    "title": "The Voter Fraud Commission",
+    "type": "tv",
+    "pub_date": "2017-09-18",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/dunlap.jpg",
+    "url": "https://news.vice.com/story/this-democrat-on-trumps-voter-fraud-commission-wants-to-prove-him-wrong"
+  },
+  {
     "title": "A Tale of Two Towns",
     "type": "words",
     "pub_date": "2017-09-06 16:00:00",

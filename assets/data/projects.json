@@ -1,5 +1,19 @@
 [
   {
+    "title": "Americans United for Life",
+    "type": "tv",
+    "pub_date": "2018-1-23",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/roe.gif",
+    "url": "https://news.vice.com/en_us/article/wjpa99/this-is-the-legal-arm-of-the-pro-life-movement"
+  },
+  {
+    "title": "Eric Greitens",
+    "type": "tv",
+    "pub_date": "2018-1-16",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/greitens.png",
+    "url": "https://news.vice.com/en_us/article/j5vnxy/the-other-scandals-that-could-take-down-missouris-gop-governor"
+  },
+  {
     "title": "Shot By Cops",
     "type": "words",
     "pub_date": "2017-12-11",
@@ -33,6 +47,13 @@
     "pub_date": "2017-09-06 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/two-towns.jpg",
     "url": "https://news.vice.com/story/local-police-opioid-crisis-ohio-kentucky"
+  },
+  {
+    "title": "George Soros",
+    "type": "tv",
+    "pub_date": "2017-08-01",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/soros.gif",
+    "url": "https://www.youtube.com/watch?v=N9c4aHGG_kI&index=11&list=PLw613M86o5o5crIvrGu-o0Aiyq7xkagYM"
   },
   {
     "title": "Trump Hotels",

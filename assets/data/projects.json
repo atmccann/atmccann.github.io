@@ -1,38 +1,73 @@
 [
   {
+    "title": "Florida-Georgia Water War",
+    "type": "tv",
+    "pub_date": "2018-4-16",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/dams2.gif",
+    "url": "https://news.vice.com/en_us/article/xw73kn/theres-no-clear-end-in-sight-in-the-increasingly-bitter-florida-georgia-water-war"
+  },
+  {
+    "title": "Baltimore's Housing Segregation",
+    "type": "graphic",
+    "pub_date": "2018-3-26",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/Screenshot+2018-04-25+17.21.40.png",
+    "url": "https://www.youtube.com/watch?v=eVhB4RnRjFA"
+  },
+  {
+    "title": "Not All Dreamers Are Safe",
+    "type": "graphic",
+    "pub_date": "2018-3-5",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/Screenshot+2018-04-25+17.13.54.png",
+    "url": "https://www.youtube.com/watch?v=SC7yl-8BD_E"
+  },
+  {
+    "title": "Americans United for Life",
+    "type": "tv",
+    "pub_date": "2018-1-23",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/roe.gif",
+    "url": "https://news.vice.com/en_us/article/wjpa99/this-is-the-legal-arm-of-the-pro-life-movement"
+  },
+  {
     "title": "Shot By Cops",
     "type": "words",
     "pub_date": "2017-12-11",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/shotbycops",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/shot-by-cops.png",
     "url": "https://news.vice.com/story/shot-by-cops"
   },
   {
     "title": "Sexual Harassment",
     "type": "tv",
     "pub_date": "2017-11-12",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/weinstein-square.gif",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/sexualharassment.gif",
     "url": "https://news.vice.com/story/only-1-in-4-harassment-victims-report-it-will-the-weinstein-revelations-change-anything"
   },
   {
     "title": "California's Hep A Crisis",
     "type": "tv",
     "pub_date": "2017-10-17",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/hepA.png",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/hep-A.png",
     "url": "https://news.vice.com/story/california-is-trying-to-fight-a-deadly-hepatitis-a-outbreak"
   },
   {
     "title": "The Voter Fraud Commission",
     "type": "tv",
     "pub_date": "2017-09-18",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/dunlap.jpg",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/VoterFraud.png",
     "url": "https://news.vice.com/story/this-democrat-on-trumps-voter-fraud-commission-wants-to-prove-him-wrong"
   },
   {
     "title": "A Tale of Two Towns",
     "type": "words",
     "pub_date": "2017-09-06 16:00:00",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/twotowns.jpg",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/two-towns.jpg",
     "url": "https://news.vice.com/story/local-police-opioid-crisis-ohio-kentucky"
+  },
+  {
+    "title": "George Soros",
+    "type": "tv",
+    "pub_date": "2017-08-01",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/soros.gif",
+    "url": "https://www.youtube.com/watch?v=N9c4aHGG_kI&index=11&list=PLw613M86o5o5crIvrGu-o0Aiyq7xkagYM"
   },
   {
     "title": "Trump Hotels",
@@ -45,7 +80,7 @@
     "title": "The Last Clinics",
     "type": "words",
     "pub_date": "2017-05-21 16:00:00",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/clinics-small.gif",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/last-clinics.gif",
     "url": "https://news.vice.com/story/last-clinics-seven-states-one-abortion-clinic-left"
   },
   {
@@ -59,7 +94,7 @@
     "title": "Aramis Ayala",
     "type": "tv",
     "pub_date": "2017-05-12 16:00:00",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/aramis.png",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/aramis-ayala.png",
     "url": "https://youtu.be/ggcFS1gs1E4?t=1s"
   },
   {

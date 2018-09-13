@@ -273,20 +273,6 @@
     "url": "http://projects.fivethirtyeight.com/carmelo/"
   },
   {
-    "title": "Trump Attacks",
-    "type": "graphic",
-    "pub_date": "2015-08-27 13:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/trumpattacks.png",
-    "url": "http://fivethirtyeight.com/features/when-donald-trump-attacks-gop/"
-  },
-  {
-    "title": "How Your Favorite Baseball Team Blows Its Money",
-    "type": "graphic",
-    "pub_date": "2015-07-8 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/baseballmoney.png",
-    "url": "http://fivethirtyeight.com/features/how-your-favorite-baseball-team-blows-its-money/"
-  },
-  {
     "title": "Women's World Cup Preview",
     "type": "words",
     "pub_date": "2015-06-3 14:0:0",
@@ -315,13 +301,6 @@
     "url": "https://fivethirtyeight.com/interactives/march-madness-predictions-2015/#mens"
   },
   {
-    "title": "Every NBA Team’s Chance Of Winning",
-    "type": "graphic",
-    "pub_date": "2015-02-18 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/nbawin.png",
-    "url": "https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/"
-  },
-  {
     "title": "Chug, Run, Repeat",
     "type": "words",
     "pub_date": "2014-12-5 12:0:0",
@@ -329,25 +308,11 @@
     "url": "http://fivethirtyeight.com/features/beer-mile-chug-run-repeat/"
   },
   {
-    "title": "Who Makes It To The Supreme Court?",
-    "type": "graphic",
-    "pub_date": "2014-11-2 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/scotus.png",
-    "url": "http://fivethirtyeight.com/features/the-supreme-court-wont-be-getting-another-sotomayor-anytime-soon/"
-  },
-  {
     "title": "2014 Senate Forecast",
     "type": "graphic",
     "pub_date": "2014-11-1 12:0:0",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/senate.png",
     "url": "http://fivethirtyeight.com/interactives/senate-forecast/"
-  },
-  {
-    "title": "Sneakers",
-    "type": "graphic",
-    "pub_date": "2014-10-17 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/sneakers.gif",
-    "url": "http://fivethirtyeight.com/features/you-see-sneakers-these-guys-see-hundreds-of-millions-in-resale-profit/"
   },
   {
     "title": "NFL domestic violence",

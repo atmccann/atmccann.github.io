@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Man Trying to Make Sense of Brexit Is Tired and Would Like to Stop Now",
+    "type": "words",
+    "pub_date": "2019-03-29 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/brexit-crop1-small.png",
+    "url": "https://www.nytimes.com/2019/03/29/world/europe/brexit-flowchart-confusion.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Mozambique’s Cyclone: Mapping the Destruction of Idai",
+    "type": "graphics",
+    "pub_date": "2019-03-20 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/mozambique.png",
+    "url": "https://www.nytimes.com/interactive/2019/03/19/world/africa/mozambique-cyclone-idai-maps.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "From 8,600 Flights to Zero: Grounding the Boeing 737 Max 8",
+    "type": "graphics",
+    "pub_date": "2019-03-13",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/map-vid.gif",
+    "url": "https://www.nytimes.com/interactive/2019/03/11/world/boeing-737-max-which-airlines.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Where Europe Would Be Hurt Most by a No-Deal Brexit",
+    "type": "words",
+    "pub_date": "2019-02-07",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/brexit-eu.png",
+    "url": "https://www.nytimes.com/interactive/2019/02/07/world/europe/brexit-impact-on-european-union.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
     "title": "Lion Air Flight 610",
     "type": "graphics",
     "pub_date": "2018-12-26 16:00:00",

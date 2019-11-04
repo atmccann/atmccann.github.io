@@ -1,5 +1,26 @@
 [
   {
+    "title": "How the New Syria Took Shape",
+    "type": "graphics",
+    "pub_date": "2019-10-30",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/syria-turkey-twitter.gif",
+    "url": "https://www.nytimes.com/interactive/2019/10/30/world/middleeast/syria-turkey-maps.html"
+  },
+  {
+    "title": "Four Big Questions About Syria’s Future",
+    "type": "graphics",
+    "pub_date": "2019-10-15",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/fourqs.jpg",
+    "url": "https://www.nytimes.com/interactive/2019/10/15/world/middleeast/syria-turkey.html"
+  },
+  {
+    "title": "The Fashion Week Diary of Sandy Liang",
+    "type": "words",
+    "pub_date": "2019-09-23",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/sandy.jpg",
+    "url": "https://www.nytimes.com/2019/09/19/business/sandy-liang-fashion-week-diary.html"
+  },
+  {
     "title": "As Scotland’s ‘Trainspotting’ Generation Ages, the Dead Pile Up",
     "type": "words",
     "pub_date": "2019-08-07",

@@ -1,5 +1,33 @@
 [
   {
+    "title": "800,000 Syrians Have Fled",
+    "type": "graphics",
+    "pub_date": "2020-02-14",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/syria-migration.gif",
+    "url": "https://www.nytimes.com/interactive/2020/02/14/world/middleeast/syria-idlib-displaced.html"
+  },
+  {
+    "title": "A View of Brexit From the Soccer Field",
+    "type": "words",
+    "pub_date": "2020-01-31",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/brexit-small.jpg",
+    "url": "https://www.nytimes.com/2020/01/31/world/europe/brexit-britain-soccer.html"
+  },
+  {
+    "title": "Tracking the Spread of the Outbreak",
+    "type": "graphics",
+    "pub_date": "2020-01-15",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screen+Shot+2020-02-11+at+9.08.42+AM.png",
+    "url": "https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html"
+  },
+  {
+    "title": "UK Election Results",
+    "type": "graphics",
+    "pub_date": "2019-12-12",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screen+Shot+2020-02-11+at+9.08.02+AM.png",
+    "url": "https://www.nytimes.com/interactive/2019/12/13/world/europe/uk-general-election-results.html"
+  },
+  {
     "title": "How the New Syria Took Shape",
     "type": "graphics",
     "pub_date": "2019-10-30",

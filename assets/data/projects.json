@@ -1,57 +1,232 @@
 [
   {
+    "title": "800,000 Syrians Have Fled",
+    "type": "graphics",
+    "pub_date": "2020-02-14",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/syria-migration.gif",
+    "url": "https://www.nytimes.com/interactive/2020/02/14/world/middleeast/syria-idlib-displaced.html"
+  },
+  {
+    "title": "A View of Brexit From the Soccer Field",
+    "type": "words",
+    "pub_date": "2020-01-31",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/brexit-small.jpg",
+    "url": "https://www.nytimes.com/2020/01/31/world/europe/brexit-britain-soccer.html"
+  },
+  {
+    "title": "Tracking the Spread of the Outbreak",
+    "type": "graphics",
+    "pub_date": "2020-01-15",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screen+Shot+2020-02-11+at+9.08.42+AM.png",
+    "url": "https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html"
+  },
+  {
+    "title": "UK Election Results",
+    "type": "graphics",
+    "pub_date": "2019-12-12",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screen+Shot+2020-02-11+at+9.08.02+AM.png",
+    "url": "https://www.nytimes.com/interactive/2019/12/13/world/europe/uk-general-election-results.html"
+  },
+  {
+    "title": "How the New Syria Took Shape",
+    "type": "graphics",
+    "pub_date": "2019-10-30",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/syria-turkey-twitter.gif",
+    "url": "https://www.nytimes.com/interactive/2019/10/30/world/middleeast/syria-turkey-maps.html"
+  },
+  {
+    "title": "Four Big Questions About Syria’s Future",
+    "type": "graphics",
+    "pub_date": "2019-10-15",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/fourqs.jpg",
+    "url": "https://www.nytimes.com/interactive/2019/10/15/world/middleeast/syria-turkey.html"
+  },
+  {
+    "title": "The Fashion Week Diary of Sandy Liang",
+    "type": "words",
+    "pub_date": "2019-09-23",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/sandy.jpg",
+    "url": "https://www.nytimes.com/2019/09/19/business/sandy-liang-fashion-week-diary.html"
+  },
+  {
+    "title": "As Scotland’s ‘Trainspotting’ Generation Ages, the Dead Pile Up",
+    "type": "words",
+    "pub_date": "2019-08-07",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/james.png",
+    "url": "https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html"
+  },
+  {
+    "title": "World Cup Players Say Muscles and Makeup Mix Just Fine, Thanks",
+    "type": "words",
+    "pub_date": "2019-06-19",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/shanice.jpg",
+    "url": "https://www.nytimes.com/2019/06/20/style/world-cup-women-hair-gender.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "108 Women’s World Cup Players on Their Jobs, Money and Sacrificing Everything",
+    "type": "graphics",
+    "pub_date": "2019-06-08",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/alex.jpg",
+    "url": "https://www.nytimes.com/interactive/2019/06/07/sports/soccer/world-cup-survey.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Sam Kerr Can't Stop Scoring",
+    "type": "graphics",
+    "pub_date": "2019-06-07",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/sam.gif",
+    "url": "https://www.nytimes.com/interactive/2019/06/11/sports/world-cup/sam-kerr-world-cup.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Why Notre-Dame Was a Tinderbox",
+    "type": "graphics",
+    "pub_date": "2019-04-17",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/notredame.jpg",
+    "url": "https://www.nytimes.com/interactive/2019/04/17/world/europe/notre-dame-cathedral-fire-spread.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "The Man Trying to Make Sense of Brexit Is Tired and Would Like to Stop Now",
+    "type": "words",
+    "pub_date": "2019-03-29 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/brexit-crop1-small.png",
+    "url": "https://www.nytimes.com/2019/03/29/world/europe/brexit-flowchart-confusion.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Mozambique’s Cyclone: Mapping the Destruction of Idai",
+    "type": "graphics",
+    "pub_date": "2019-03-20 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/mozambique.png",
+    "url": "https://www.nytimes.com/interactive/2019/03/19/world/africa/mozambique-cyclone-idai-maps.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "From 8,600 Flights to Zero: Grounding the Boeing 737 Max 8",
+    "type": "graphics",
+    "pub_date": "2019-03-13",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/map-vid.gif",
+    "url": "https://www.nytimes.com/interactive/2019/03/11/world/boeing-737-max-which-airlines.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Where Europe Would Be Hurt Most by a No-Deal Brexit",
+    "type": "words",
+    "pub_date": "2019-02-07",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/brexit-eu.png",
+    "url": "https://www.nytimes.com/interactive/2019/02/07/world/europe/brexit-impact-on-european-union.html?rref=collection%2Fbyline%2Fallison-mccann"
+  },
+  {
+    "title": "Lion Air Flight 610",
+    "type": "graphics",
+    "pub_date": "2018-12-26 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/lionair.png",
+    "url": "https://www.nytimes.com/interactive/2018/12/26/world/asia/lion-air-crash-12-minutes.html"
+  },
+  {
+    "title": "Brexit",
+    "type": "graphics",
+    "pub_date": "2018-12-10 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/brexit.png",
+    "url": "https://www.nytimes.com/interactive/2018/12/10/world/europe/may-brexit-vote-deal-fail.html"
+  },
+  {
+    "title": "How Voting Blocs Have Shifted Since the ’80s",
+    "type": "graphics",
+    "pub_date": "2018-11-28 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/exitpolls.png",
+    "url": "https://www.nytimes.com/interactive/2018/11/07/us/elections/house-exit-polls-analysis.html"
+  },
+  {
+    "title": "The Gutting of the Voting Rights Act",
+    "type": "words",
+    "pub_date": "2018-07-28 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/vra.jpg",
+    "url": "https://news.vice.com/en_us/article/kz58qx/how-the-gutting-of-the-voting-rights-act-led-to-closed-polls"
+  },
+  {
+    "title": "Family Separations",
+    "type": "graphic",
+    "pub_date": "2018-07-27 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/fam-reunifications.jpg",
+    "url": "https://news.vice.com/en_us/article/wjkgpx/almost-a-third-of-all-children-separated-from-their-parents-at-the-border-are-still-not-reunified"
+  },
+  {
+    "title": "Breathing Easy",
+    "type": "tv",
+    "pub_date": "2018-07-18 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/final-map-bcdose.png",
+    "url": "https://news.vice.com/en_us/article/wjkjgm/city-cyclists-heres-how-much-pollution-youre-actually-inhaling"
+  },
+  {
+    "title": "She's Running",
+    "type": "words",
+    "pub_date": "2018-06-18 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/women-chart.jpg",
+    "url": "https://news.vice.com/en_us/article/bj35xa/women-are-kinda-crushing-it-in-the-2018-primaries"
+  },
+  {
+    "title": "Census Test",
+    "type": "tv",
+    "pub_date": "2018-05-18 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/census.gif",
+    "url": "https://news.vice.com/en_us/article/pavg48/inside-the-us-census-test-that-no-one-knows-about"
+  },
+  {
     "title": "Florida-Georgia Water War",
     "type": "tv",
-    "pub_date": "2018-4-16",
+    "pub_date": "2018-04-18 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/dams2.gif",
     "url": "https://news.vice.com/en_us/article/xw73kn/theres-no-clear-end-in-sight-in-the-increasingly-bitter-florida-georgia-water-war"
   },
   {
+    "title": "Kris Kobach",
+    "type": "tv",
+    "pub_date": "2018-04-01 16:00:00",
+    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/kobach.jpeg",
+    "url": "https://www.youtube.com/watch?v=cRICppvE58g"
+  },
+  {
     "title": "Baltimore's Housing Segregation",
     "type": "graphic",
-    "pub_date": "2018-3-26",
+    "pub_date": "2018-03-26 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/Screenshot+2018-04-25+17.21.40.png",
     "url": "https://www.youtube.com/watch?v=eVhB4RnRjFA"
   },
   {
     "title": "Not All Dreamers Are Safe",
     "type": "graphic",
-    "pub_date": "2018-3-5",
+    "pub_date": "2018-03-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/Screenshot+2018-04-25+17.13.54.png",
     "url": "https://www.youtube.com/watch?v=SC7yl-8BD_E"
   },
   {
     "title": "Americans United for Life",
     "type": "tv",
-    "pub_date": "2018-1-23",
+    "pub_date": "2018-01-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/roe.gif",
     "url": "https://news.vice.com/en_us/article/wjpa99/this-is-the-legal-arm-of-the-pro-life-movement"
   },
   {
     "title": "Shot By Cops",
     "type": "words",
-    "pub_date": "2017-12-11",
+    "pub_date": "2017-12-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/shot-by-cops.png",
     "url": "https://news.vice.com/story/shot-by-cops"
   },
   {
     "title": "Sexual Harassment",
     "type": "tv",
-    "pub_date": "2017-11-12",
+    "pub_date": "2017-11-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/sexualharassment.gif",
     "url": "https://news.vice.com/story/only-1-in-4-harassment-victims-report-it-will-the-weinstein-revelations-change-anything"
   },
   {
     "title": "California's Hep A Crisis",
     "type": "tv",
-    "pub_date": "2017-10-17",
+    "pub_date": "2017-10-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/hep-A.png",
     "url": "https://news.vice.com/story/california-is-trying-to-fight-a-deadly-hepatitis-a-outbreak"
   },
   {
     "title": "The Voter Fraud Commission",
     "type": "tv",
-    "pub_date": "2017-09-18",
+    "pub_date": "2017-09-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/VoterFraud.png",
     "url": "https://news.vice.com/story/this-democrat-on-trumps-voter-fraud-commission-wants-to-prove-him-wrong"
   },
@@ -65,7 +240,7 @@
   {
     "title": "George Soros",
     "type": "tv",
-    "pub_date": "2017-08-01",
+    "pub_date": "2017-08-11 16:00:00",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/soros.gif",
     "url": "https://www.youtube.com/watch?v=N9c4aHGG_kI&index=11&list=PLw613M86o5o5crIvrGu-o0Aiyq7xkagYM"
   },
@@ -238,20 +413,6 @@
     "url": "http://projects.fivethirtyeight.com/carmelo/"
   },
   {
-    "title": "Trump Attacks",
-    "type": "graphic",
-    "pub_date": "2015-08-27 13:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/trumpattacks.png",
-    "url": "http://fivethirtyeight.com/features/when-donald-trump-attacks-gop/"
-  },
-  {
-    "title": "How Your Favorite Baseball Team Blows Its Money",
-    "type": "graphic",
-    "pub_date": "2015-07-8 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/baseballmoney.png",
-    "url": "http://fivethirtyeight.com/features/how-your-favorite-baseball-team-blows-its-money/"
-  },
-  {
     "title": "Women's World Cup Preview",
     "type": "words",
     "pub_date": "2015-06-3 14:0:0",
@@ -280,13 +441,6 @@
     "url": "https://fivethirtyeight.com/interactives/march-madness-predictions-2015/#mens"
   },
   {
-    "title": "Every NBA Team’s Chance Of Winning",
-    "type": "graphic",
-    "pub_date": "2015-02-18 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/nbawin.png",
-    "url": "https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/"
-  },
-  {
     "title": "Chug, Run, Repeat",
     "type": "words",
     "pub_date": "2014-12-5 12:0:0",
@@ -294,25 +448,11 @@
     "url": "http://fivethirtyeight.com/features/beer-mile-chug-run-repeat/"
   },
   {
-    "title": "Who Makes It To The Supreme Court?",
-    "type": "graphic",
-    "pub_date": "2014-11-2 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/scotus.png",
-    "url": "http://fivethirtyeight.com/features/the-supreme-court-wont-be-getting-another-sotomayor-anytime-soon/"
-  },
-  {
     "title": "2014 Senate Forecast",
     "type": "graphic",
     "pub_date": "2014-11-1 12:0:0",
     "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/senate.png",
     "url": "http://fivethirtyeight.com/interactives/senate-forecast/"
-  },
-  {
-    "title": "Sneakers",
-    "type": "graphic",
-    "pub_date": "2014-10-17 12:0:0",
-    "img": "https://s3.amazonaws.com/aws-website-allisontmccann-zqj1q/img/sneakers.gif",
-    "url": "http://fivethirtyeight.com/features/you-see-sneakers-these-guys-see-hundreds-of-millions-in-resale-profit/"
   },
   {
     "title": "NFL domestic violence",

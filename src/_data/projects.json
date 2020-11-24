@@ -1,5 +1,45 @@
 [
   {
+    "title": "How a Man With a Van Is Challenging U.K. Drug Policy",
+    "type": "light",
+    "type_old": "words",
+    "pub_date": "2020-11-21",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screenshot+2020-11-24+at+12.51.43.png",
+    "url": "https://www.nytimes.com/2020/11/21/world/europe/scotland-glasgow-drugs-van.html"
+  },
+  {
+    "title": "What Happens When the Election Results Are Contested",
+    "type": "",
+    "type_old": "graphics",
+    "pub_date": "2020-11-05",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/elec-flow.jpg",
+    "url": "https://www.nytimes.com/interactive/2020/11/03/us/politics/election-results-contested-disputed.html"
+  },
+  {
+    "title": "Where Europe’s Second Wave Is Filling Up Hospitals",
+    "type": "",
+    "type_old": "graphics",
+    "pub_date": "2020-10-22",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/Screenshot+2020-11-24+at+12.52.32.png",
+    "url": "https://www.nytimes.com/interactive/2020/10/22/world/europe/europe-hospitals-covid.html"
+  },
+  {
+    "title": "The Nigerian-British Writer Putting Black Joy on Stage and Screen",
+    "type": "",
+    "type_old": "words",
+    "pub_date": "2020-09-18",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/theresa-website.jpg",
+    "url": "https://www.nytimes.com/2020/09/18/world/europe/theresa-ikoko-movie-rocks.html"
+  },
+  {
+    "title": "How a Massive Bomb Came Together in Beirut’s Port",
+    "type": "",
+    "type_old": "graphics",
+    "pub_date": "2020-09-09",
+    "img": "https://aws-website-allisontmccann-zqj1q.s3.amazonaws.com/img/beirut-website.jpg",
+    "url": "https://www.nytimes.com/interactive/2020/09/09/world/middleeast/beirut-explosion.html"
+  },
+  {
     "title": "N.Y.P.D. Says It Used Restraint During Protests. Here’s What the Videos Show.",
     "type": "light",
     "type_old": "graphics",
